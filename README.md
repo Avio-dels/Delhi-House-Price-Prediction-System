@@ -208,5 +208,4 @@ Final Year B.Tech / B.Sc (Computer Science / Data Science)
 
 ---
 
-> *This project was developed as part of the Final Year Machine Learning coursework.*
 
