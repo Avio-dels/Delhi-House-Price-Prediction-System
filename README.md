@@ -1,5 +1,5 @@
 # 🏠 Delhi House Price Prediction
-### Final Year Machine Learning Project
+### Machine Learning Project
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-orange?logo=scikit-learn&logoColor=white)
@@ -22,7 +22,8 @@ The project covers the complete ML pipeline — from data cleaning and EDA to hy
 ```
 Delhi-House-Price-Prediction/
 │
-├── Delhi_House_Price_Prediction_Improved.ipynb   # Main notebook
+├── Delhi_House_Price_Prediction.ipynb            # Main notebook
+├── Delhi_House_Price_Prediction.pdf              # PDF 
 ├── MagicBricks.csv                               # Dataset
 └── README.md                                     # Project documentation
 ```
@@ -45,7 +46,7 @@ Delhi-House-Price-Prediction/
 | `Type` | Builder Floor / Apartment |
 | `Per_Sqft` | Price per square foot |
 
-**Source:** [MagicBricks](https://www.magicbricks.com/) via Kaggle  
+**Source:** [MagicBricks](https://www.kaggle.com/code/fibyehab/delhi-house-price/input) via Kaggle  
 **Size:** 1,259 rows × 11 columns
 
 ---
@@ -183,16 +184,6 @@ jupyter notebook Delhi_House_Price_Prediction_Improved.ipynb
 
 ---
 
-## 💡 Future Improvements
-
-- [ ] Integrate **XGBoost / LightGBM** for potentially higher accuracy
-- [ ] Add **SHAP values** for deeper model explainability
-- [ ] Incorporate **geospatial features** (distance to metro, schools, hospitals)
-- [ ] Apply **log-transformation on Price** to improve linear model performance
-- [ ] Deploy as a **Streamlit / Flask web app** for live predictions
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -201,10 +192,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
-Final Year B.Tech / B.Sc (Computer Science / Data Science)  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
+**Ayush N. Nagdive**  
+Pre Final Year B.E (Computer Science Engineering)
+📧 aviothic.xo@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayush-nagdive-99048b286/) | [GitHub](https://github.com/Avio-dels)
 
 ---
 
